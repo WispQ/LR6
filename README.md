@@ -25,7 +25,7 @@
 ### 8 Пункт: посмотрел последние изменения.
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/6.png)
 
-### 9 Пункт: выполнил слияние в ветку master, разрешив конфликт.
+### 9 Пункт: выполнил слияние в ветку master, разрешив конфликт путем объединения файлов.
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/7.png)
 
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/8.png)
@@ -42,12 +42,12 @@
 
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/13.png)
 
-### 12 Пункт: сделал откат коммита.
+### 12 Пункт: сделал откат коммита и убедился, что он успешно откатился.
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/14.png)
 
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/15.png)
 
-### 13 Пункт: создал ветку для отчета.
+### 13 Пункт: создал новую ветку для отчета и переключился на нее.
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/16.png)
 
 ![](https://github.com/WispQ/LR6/blob/report/Screenshots/17.png)
